@@ -4,6 +4,7 @@
 </a>
 
 <!-- [![fastdup](https://svg.bookmark.style/api?url=https://github.com/visual-layer/fastdup&mode=dark&style=horizontal)](https://github.com/visual-layer/fastdup) -->
+<br>
 
 ## Blog Posts:
 [![Guy Singer on Medium](https://github-readme-medium.vercel.app/?username=guysinger)](https://medium.com/@guysinger)
