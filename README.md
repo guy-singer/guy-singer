@@ -1,7 +1,6 @@
 <h2  align="left"> Currently Working On: </h2>
 
 [![fastdup](https://svg.bookmark.style/api?url=https://github.com/visual-layer/fastdup&mode=dark&style=horizontal)](https://github.com/visual-layer/fastdup)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/visual-layer/fastdup)
 
 <h2 align="left">Blog Articles</h2>
 <p align="left" align='right'>
