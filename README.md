@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=visual-layer&repo=fastdup&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fastdup" />
 </a>
 
---> [![fastdup](https://svg.bookmark.style/api?url=https://github.com/visual-layer/fastdup&mode=dark&style=horizontal)](https://github.com/visual-layer/fastdup)
+<!-- [![fastdup](https://svg.bookmark.style/api?url=https://github.com/visual-layer/fastdup&mode=dark&style=horizontal)](https://github.com/visual-layer/fastdup) -->
 
 ## Blog Posts:
 [![Guy Singer on Medium](https://github-readme-medium.vercel.app/?username=guysinger)](https://medium.com/@guysinger)
