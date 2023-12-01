@@ -1,16 +1,3 @@
-## About Me
-<p>
-<em>
-  <img src="https://storage.googleapis.com/finder-images/$iqrFWyarMccqUK7UTOwXLa3ysZS3T75OlVPfNEBr2RqdWbsxJDn4t1.jpeg" width="15">
-  Machine Learning Researcher at 
-  <a href="https://visual-layer.com/">Visual Layer</a>
-</br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjY-6py8eT4A1lWw1g9J-31tIwN5veHD4yzHrTQ66VBl_NRD4MeLTn79sSwf9VgWvgBmI&usqp=CAU" width="15">
-  Mathematical & Theoretical Biology at 
-  <a href="https://en-lifesci.tau.ac.il/">TAU</a> 
-</em>
-</p>
-
 ## Currently Working On:
 <a href="https://github.com/visual-layer/fastdup">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=visual-layer&repo=fastdup&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fastdup" />
@@ -45,4 +32,16 @@
 Old Parts: 
 [![Guy Singer on Medium](https://github-readme-medium.vercel.app/?username=guysinger)](https://medium.com/@guysinger)
 [![fastdup](https://svg.bookmark.style/api?url=https://github.com/visual-layer/fastdup&mode=dark&style=horizontal)](https://github.com/visual-layer/fastdup) 
+## About Me
+<p>
+<em>
+  <img src="https://storage.googleapis.com/finder-images/$iqrFWyarMccqUK7UTOwXLa3ysZS3T75OlVPfNEBr2RqdWbsxJDn4t1.jpeg" width="15">
+  Machine Learning Researcher at 
+  <a href="https://visual-layer.com/">Visual Layer</a>
+</br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjY-6py8eT4A1lWw1g9J-31tIwN5veHD4yzHrTQ66VBl_NRD4MeLTn79sSwf9VgWvgBmI&usqp=CAU" width="15">
+  Mathematical & Theoretical Biology at 
+  <a href="https://en-lifesci.tau.ac.il/">TAU</a> 
+</em>
+</p>
 -->
