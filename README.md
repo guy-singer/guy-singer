@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## Blog Posts:
+## Recent Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Faster Image Captioning and VQA With fastdup](https://medium.com/visual-layer/fastdup-now-supports-image-captioning-and-vqa-d6cda09e9b60)
 <!-- BLOG-POST-LIST:END -->
