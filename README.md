@@ -1,8 +1,8 @@
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Currently Working On:
 
 [![fastdup](https://svg.bookmark.style/api?url=https://github.com/visual-layer/fastdup&mode=dark&style=horizontal)](https://github.com/visual-layer/fastdup)
 
-## Blog Posts
+## Blog Posts:
 <p align="left" align='right'>
   <a target="_blank"href="https://medium.com/@guysinger"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
