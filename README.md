@@ -6,11 +6,6 @@
 [![Guy Singer on Medium](https://github-readme-medium.vercel.app/?username=guysinger)](https://medium.com/@guysinger)
 
 
-
-<p align="left" align='right'>
-  <a target="_blank"href="https://medium.com/@guysinger"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
 ## Reach Me On:
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/guysinger/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
